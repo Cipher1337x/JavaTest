@@ -1,0 +1,16 @@
+Scripting exercise (python or bash preferred):
+
+For this exercise please use the file "exercise_data.txt" as input.
+Write a function that counts and prints how many times the following strings are present in the file:
+•          The string "BEE"
+•          A string of 4 characters that starts with A and ends with G, with any two characters in between.
+•          A string of 8 characters that starts with D and ends with B, with the sequence "CC" present somewhere in the string.
+
+Please provide support documentation.
+
+
+A program has been written to meet the following requirements:
+•         The program shall take as arguments two integers, X and Y, such that X < Y.
+•         The program shall print a list of all prime numbers that are both bigger than X and smaller than Y.
+
+Please describe, in as much detail as you feel relevant, how you test this program.
